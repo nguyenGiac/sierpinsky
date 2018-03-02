@@ -1,6 +1,8 @@
 # sierpinsky
 sierpinsky's sieve. sweet simple algorithm.
 
+here is a video where I try to descibe what I understand: https://www.youtube.com/watch?v=zeYUHsCLbWU
+
 i read about this algorithm in *FractalVision: Put Fractals to Work For You*. it sounded really simple. too simple to be real. but! it works!
 
 this is all it is (you can do it with pen and paper):
